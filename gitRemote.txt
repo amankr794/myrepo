@@ -1,0 +1,8 @@
+1.> Githu Account
+2.> Empty repo
+3.> Local System
+      git config --global user.name "username"
+      git config --global user.email "useremail"
+4.> git push -u ogigin master
+    4.1> username?
+    4.2> password?
